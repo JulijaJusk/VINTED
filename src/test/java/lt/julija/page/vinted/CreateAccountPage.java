@@ -1,4 +1,8 @@
 package lt.julija.page.vinted;
 
-public class CreateAccountPage {
+import lt.julija.page.PageBase;
+
+public class CreateAccountPage extends PageBase {
+
+
 }
