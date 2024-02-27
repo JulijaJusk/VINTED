@@ -1,4 +1,8 @@
 package lt.julija.test.vinted;
 
-public class CreateAccountTest {
+import lt.julija.test.TestBase;
+
+public class CreateAccountTest extends TestBase {
+
+
 }
